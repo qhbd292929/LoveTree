@@ -1,4 +1,4 @@
-// 霸都丶傲天 2019/7/9  https://Github.com/AJLoveChina
+// 从此努力  https://Github.com/qhdb292929
 var config = {
     // 下面的句子不一定非要7句， 你也可以改成4句，2句话都可以
     lines: [
@@ -21,5 +21,5 @@ var config = {
     //          2.T不能丢了
     date: "2021-06-20T22:15:00",
     // 双方的名字
-    names: ["笨笨熊", "黑猪猪"]
+    names: ["帅帅", "蕾蕾"]
 }
